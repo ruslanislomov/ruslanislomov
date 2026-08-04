@@ -1,27 +1,8 @@
 <div align="center">
 
-<svg width="700" height="100" viewBox="0 0 700 100" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#00F2FE"/>
-    <stop offset="25%" stop-color="#7B00FF"/>
-    <stop offset="50%" stop-color="#FF00E6"/>
-    <stop offset="75%" stop-color="#FF9900"/>
-    <stop offset="100%" stop-color="#00FFAA"/>
-    <animate attributeName="x1" values="0%;100%;0%" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="x2" values="100%;200%;100%" dur="5s" repeatCount="indefinite"/>
-  </linearGradient>
-</defs>
-
-<text x="50%" y="55%"
-      text-anchor="middle"
-      font-family="Arial, sans-serif"
-      font-size="52"
-      font-weight="bold"
-      fill="url(#neon)">
-  RUSLAN ISLOMOV
-</text>
-</svg>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=RUSLAN+ISLOMOV;RUSLAN+ISLOMOV;RUSLAN+ISLOMOV" />
+</p>
 
 ### 💻 Student Developer | 🐍 Python • ⚡ C# • 🌐 HTML
 
@@ -71,9 +52,11 @@
   <a href="https://github.com/ruslanislomov">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://t.me/ruslan_0_0">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+
   <a href="https://instagram.com/rusla_nchik.0.0.7">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
